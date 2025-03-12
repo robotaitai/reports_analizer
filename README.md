@@ -26,20 +26,21 @@ categories:
   - Education
   - Car Expenses
   - Other
-
+```
 ## Setup
-	1.	Create a virtual environment and activate it:
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    pip install -r requirements.txt
-    python app.py
-    ```
-    2. Access the dashboard at: http://127.0.0.1:5000
+ 
+1.	Create a virtual environment and activate it:
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+```
+2. Access the dashboard at: http://127.0.0.1:5000
 
 ## Git
 
-    The .gitignore file is set up to ignore the excel_files/ folder, virtual environment, and database files.
+The .gitignore file is set up to ignore the excel_files/ folder, virtual environment, and database files.
 
 # License
-    MIT License
+MIT License
