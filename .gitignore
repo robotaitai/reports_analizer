@@ -1,6 +1,9 @@
 # Ignore the folder with HTML reports
 /excel_files/
 
+# Ignore instance folder (for local configurations, etc.)
+/instance/
+
 # Python cache files
 __pycache__/
 *.py[cod]
